@@ -1,0 +1,55 @@
+.geral {
+     margin-left: 5%;
+    width:45% ;
+} 
+.titulo {
+    color: #3B6978;
+ font-variant: small-caps;
+ margin-left: 38px;
+
+}
+.divHeader1 {
+    background-color: #204051;
+    width: 102%;
+    margin-top: -8px;
+    margin-left: -8px;
+    padding: 5px
+}
+.row {
+    display: inline;
+}
+.divImg {
+width: 40%;
+display: inline-block;
+
+}
+.img { 
+    width: 100%;
+    margin-left: 5%;
+    margin-top: 8%;
+    border-radius: 15px;
+
+}
+.textoDireita {
+    width: 40%;
+    display: inline-block;
+    margin-left: 10%;
+
+}
+.coluna1 { 
+    width: 40%;
+    display: inline-block;
+
+}
+.coluna2 {
+    width: 50%;
+    display: inline-block;
+    margin-top: 60px; 
+    margin-left: 180px;
+    ;
+}
+.img1 {
+    width: 80%;
+    border-radius: 15px;
+
+}
