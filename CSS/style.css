@@ -37,12 +37,12 @@ display: inline-block;
 
 }
 .coluna1 { 
-    width: 40%;
+    width: 30%;
     display: inline-block;
 
 }
 .coluna2 {
-    width: 50%;
+    width:40%;
     display: inline-block;
     margin-top: 60px; 
     margin-left: 180px;
